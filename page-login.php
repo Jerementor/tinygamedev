@@ -11,7 +11,6 @@ get_header();
 <div class="p-10">
 <div class="w-container">
 <h1 class="login-header">Welcome!</h1>
-<div class="form-640 w-form">
 <?php 
 if ( have_posts() ) {
 	while ( have_posts() ) {
@@ -22,7 +21,6 @@ if ( have_posts() ) {
 	} // end while
 } // end if
 ?>
-</div>
 </div>
 </div>
 
