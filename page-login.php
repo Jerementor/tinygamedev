@@ -10,7 +10,6 @@ get_header();
 <!--PAGE LOGIN-->
 <div class="p-10">
 <div class="w-container">
-<h1 class="login-header">Welcome!</h1>
 <?php 
 if ( have_posts() ) {
 	while ( have_posts() ) {
