@@ -20,10 +20,10 @@ get_header();
 <div class="brands">
   <div class="w-container">
     <div class="w-row">
-      <div class="w-col w-col-3"><img src="/wp-content/uploads/2018/09/gms_photo.png"class="img-center img-gms"></div>
-      <div class="w-col w-col-3"><img src="/wp-content/uploads/2018/09/C3logo-monochrome-darkBGtransparent-RGB-128px_1C3logo-monochrome-darkBGtransparent-RGB-128px.png" width="80" class="img-center"></div>
-      <div class="w-col w-col-3"><img src="/wp-content/uploads/2018/09/unity-master-white.png" class="img-center"></div>
-      <div class="w-col w-col-3"><img src="/wp-content/uploads/2018/09/logo_white_512px.png" class="img-center"></div>
+      <div class="w-col w-col-3"><img src="/wp-content/uploads/2018/06/gms_photo.png"class="img-center img-gms"></div>
+      <div class="w-col w-col-3"><img src="/wp-content/uploads/2018/06/C3logo-monochrome-darkBGtransparent-RGB-128px_1C3logo-monochrome-darkBGtransparent-RGB-128px.png" width="80" class="img-center"></div>
+      <div class="w-col w-col-3"><img src="/wp-content/uploads/2018/06/unity-master-white.png" class="img-center"></div>
+      <div class="w-col w-col-3"><img src="/wp-content/uploads/2018/06/logo_white_512px.png" class="img-center"></div>
     </div>
   </div>
 </div>
